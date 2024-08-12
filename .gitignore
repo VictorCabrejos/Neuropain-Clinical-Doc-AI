@@ -34,3 +34,6 @@ __pycache__/
 # Configuración y datos temporales de sistemas operativos
 .DS_Store
 Thumbs.db
+
+# Ignorar archivos de configuración de Windows
+desktop.ini
