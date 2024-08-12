@@ -1,0 +1,36 @@
+# Entornos virtuales de Python
+venv/
+grossinger_llm/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Archivos de configuración específicos de la IDE (Visual Studio Code)
+.vscode/
+*.code-workspace
+
+# Archivos de caché y compilación de Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Archivos de configuración de Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Archivos de logs y bases de datos temporales
+*.log
+*.sqlite3
+*.db
+
+# Archivos de configuración de aplicaciones y herramientas
+*.env
+.env.*
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Configuración y datos temporales de sistemas operativos
+.DS_Store
+Thumbs.db
