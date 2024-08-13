@@ -8,6 +8,11 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/pythonfordatascience)
 
 ---
+**Project Context**
+
+This project was developed in connection with an informational talk for the Master's Program in Informatics with a Specialization in Software Engineering at Universidad Ricardo Palma. You can find the slides for the presentation here: [Grossinger LLM Presentation](https://www.dropbox.com/scl/fi/3wj1bk97gxqvnfyswa4kn/grossinger_llm_pres.pdf?rlkey=35gcbmw7duijo9ie3txw4ukrx&st=b2zb0wx8&dl=0).
+
+---
 
 ## 📜 Overview
 
