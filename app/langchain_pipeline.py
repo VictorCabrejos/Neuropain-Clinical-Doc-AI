@@ -44,9 +44,3 @@ def generate_medical_report(patient_info):
 
     report = model.invoke(messages)
     return report.content.strip()
-
-
-# Ejemplo de uso:
-# patient_info = "Paciente de 45 años con neuropatía diabética y dolor crónico en extremidades inferiores."
-# report = generate_medical_report(patient_info)
-# print(report)
