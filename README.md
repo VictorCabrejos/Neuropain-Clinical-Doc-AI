@@ -12,7 +12,7 @@
 
 This project originated from a presentation delivered for the Master's Program in Informatics with a Specialization in Software Engineering at Universidad Ricardo Palma. That initial phase demonstrated how to automate software testing using Python and Generative AI. You can still find the slides for that presentation here: [Grossinger LLM Presentation](https://www.dropbox.com/scl/fi/3wj1bk97gxqvnfyswa4kn/grossinger_llm_pres.pdf?rlkey=35gcbmw7duijo9ie3txw4ukrx&st=b2zb0wx8&dl=0).
 
-**Phase 2** of the project was presented at the **1st International Congress on Data Science and Artificial Intelligence**, hosted by Universidad Ricardo Palma and its Instituto de Datos e Inteligencia Artificial (IDIA). This phase expands the initial work by implementing **Retrieval-Augmented Generation (RAG)** to improve accuracy and mitigate hallucinations in AI-powered medical documentation. Slides from this phase can be found here: [Neuropain RAG Presentation](ADD_SLIDES_LINK_HERE).
+**Phase 2** of the project was presented at the **1st International Congress on Data Science and Artificial Intelligence**, hosted by Universidad Ricardo Palma and its Instituto de Datos e Inteligencia Artificial (IDIA). This phase expands the initial work by implementing **Retrieval-Augmented Generation (RAG)** to improve accuracy and mitigate hallucinations in AI-powered medical documentation. Slides from this phase can be found here: [Neuropain RAG Presentation](https://www.dropbox.com/scl/fi/3yu0a7hj48u4bqaxaigoz/presentacion-fase-2.pdf?rlkey=dc1315r8wycbdi1ekke5e6za5&st=rfkd8no7&dl=0).
 
 ---
 
