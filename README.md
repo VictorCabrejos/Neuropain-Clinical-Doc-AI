@@ -1,16 +1,18 @@
 
 # Neuropain Clinical Doc AI
 
-**Automated Clinical Documentation Generator using Generative AI**  
+**Automated Clinical Documentation Generator using Generative AI**
 *Created by Victor Manuel Cabrejos Jr.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/victorcabrejos/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/victorcabrejos/)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/pythonfordatascience)
 
 ---
 **Project Context**
 
-This project was developed in connection with an informational talk for the Master's Program in Informatics with a Specialization in Software Engineering at Universidad Ricardo Palma. You can find the slides for the presentation here: [Grossinger LLM Presentation](https://www.dropbox.com/scl/fi/3wj1bk97gxqvnfyswa4kn/grossinger_llm_pres.pdf?rlkey=35gcbmw7duijo9ie3txw4ukrx&st=b2zb0wx8&dl=0).
+This project originated from a presentation delivered for the Master's Program in Informatics with a Specialization in Software Engineering at Universidad Ricardo Palma. That initial phase demonstrated how to automate software testing using Python and Generative AI. You can still find the slides for that presentation here: [Grossinger LLM Presentation](https://www.dropbox.com/scl/fi/3wj1bk97gxqvnfyswa4kn/grossinger_llm_pres.pdf?rlkey=35gcbmw7duijo9ie3txw4ukrx&st=b2zb0wx8&dl=0).
+
+**Phase 2** of the project was presented at the **1st International Congress on Data Science and Artificial Intelligence**, hosted by Universidad Ricardo Palma and its Instituto de Datos e Inteligencia Artificial (IDIA). This phase expands the initial work by implementing **Retrieval-Augmented Generation (RAG)** to improve accuracy and mitigate hallucinations in AI-powered medical documentation. Slides from this phase can be found here: [Neuropain RAG Presentation](ADD_SLIDES_LINK_HERE).
 
 ---
 
@@ -18,13 +20,14 @@ This project was developed in connection with an informational talk for the Mast
 
 **Neuropain Clinical Doc AI** is a cutting-edge application designed to automate the generation of clinical documentation using Generative AI models. Specifically tailored for the needs of **Grossinger Neuropain Specialists**, this project leverages the power of the GPT-4o mini model, integrated with a Flask backend, to streamline the creation of personalized medical reports.
 
-This project not only exemplifies the potential of AI in healthcare but also demonstrates advanced software engineering practices in developing reliable and scalable systems. By reducing manual workload and minimizing errors, this tool enhances the efficiency and accuracy of clinical documentation, allowing healthcare professionals to focus more on patient care.
+With the integration of **RAG** techniques in Phase 2, the project ensures greater accuracy by referencing external data sources, minimizing the risks of hallucinations, and enabling support for complex and diverse medical documentation requirements.
 
 ---
 
 ## 🚀 Features
 
 - **Automated Report Generation**: Quickly generate detailed and personalized medical reports based on patient data.
+- **RAG-Enhanced Accuracy**: Uses Retrieval-Augmented Generation to incorporate reliable external data and reduce hallucinations.
 - **Consistency & Accuracy**: Ensures that all documentation follows a standardized format, reducing the likelihood of errors.
 - **Scalable Architecture**: Built using Flask, making it easy to deploy and scale in a variety of environments.
 - **Customizable Templates**: Easily adjust the report templates to match specific clinical needs.
@@ -35,8 +38,10 @@ This project not only exemplifies the potential of AI in healthcare but also dem
 
 - **Backend**: Flask (Python)
 - **AI Model**: GPT-4o mini, integrated via LangChain
+- **Enhanced with RAG**: Retrieval-Augmented Generation using external data sources
 - **Deployment**: Compatible with cloud platforms like AWS, Azure, or any service that supports Flask and Gunicorn
 - **Testing**: Pytest for unit testing to ensure the reliability of the application
+
 
 ---
 

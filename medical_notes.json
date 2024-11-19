@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "paciente": "Patricia Gallagher",
+        "fecha": "2012-03-28",
+        "diagnóstico": "Radiculopatía bilateral C5",
+        "síntomas": "Denervación en los miotomas C5 bilaterales y regiones paraspinosas relacionadas.",
+        "examenes": "EMG abnormal",
+        "plan_de_tratamiento": "Inyecciones epidurales esteroides cervicales continuarán.",
+        "procedimientos": [
+            {"nombre": "Inyecciones Facetarias", "cpt": ["64490", "64491", "64492"]}
+        ],
+        "notas": "La paciente toleró bien el procedimiento.",
+        "doctor": "Bruce H. Grossinger, D.O., CIME"
+    },
+    {
+        "id": 2,
+        "paciente": "John Doe",
+        "fecha": "2023-08-15",
+        "diagnóstico": "Neuropatía Diabética",
+        "síntomas": "Dolor crónico en extremidades inferiores, pérdida de sensibilidad en pies.",
+        "examenes": "Examen físico y pruebas de conducción nerviosa.",
+        "plan_de_tratamiento": "Ajuste de medicación antidiabética, inicio de gabapentina.",
+        "procedimientos": [
+            {"nombre": "Prueba de Conducción Nerviosa", "cpt": ["95900", "95903"]}
+        ],
+        "notas": "El paciente respondió bien a las recomendaciones iniciales.",
+        "doctor": "Jane Smith, M.D."
+    },
+    {
+        "id": 3,
+        "paciente": "Alice Johnson",
+        "fecha": "2022-05-10",
+        "diagnóstico": "Migraña Crónica",
+        "síntomas": "Dolores de cabeza intensos recurrentes, sensibilidad a la luz y el sonido.",
+        "examenes": "Historia clínica detallada.",
+        "plan_de_tratamiento": "Iniciación de tratamiento con triptanos y cambios en el estilo de vida.",
+        "procedimientos": [
+            {"nombre": "Inyección de Toxina Botulínica", "cpt": ["64615"]}
+        ],
+        "notas": "El paciente fue programado para seguimiento en 6 semanas.",
+        "doctor": "Emily Turner, M.D."
+    },
+    {
+        "id": 4,
+        "paciente": "Carlos Martínez",
+        "fecha": "2021-11-23",
+        "diagnóstico": "Espondilosis Lumbar",
+        "síntomas": "Dolor en la región lumbar, rigidez matutina.",
+        "examenes": "Resonancia magnética de la columna lumbar.",
+        "plan_de_tratamiento": "Terapia física y manejo del dolor con AINEs.",
+        "procedimientos": [
+            {"nombre": "Inyecciones de Bloqueo Nervioso", "cpt": ["64483"]}
+        ],
+        "notas": "El paciente refiere mejoría moderada tras el primer mes.",
+        "doctor": "Daniel López, M.D."
+    },
+    {
+        "id": 5,
+        "paciente": "Maria González",
+        "fecha": "2020-07-19",
+        "diagnóstico": "Fibromialgia",
+        "síntomas": "Dolor generalizado, fatiga, alteraciones del sueño.",
+        "examenes": "Exclusión de otras condiciones mediante análisis de sangre.",
+        "plan_de_tratamiento": "Iniciación de amitriptilina y terapia cognitivo-conductual.",
+        "procedimientos": [
+            {"nombre": "Evaluación del Dolor", "cpt": ["96161"]}
+        ],
+        "notas": "Se sugiere aumentar la actividad física progresivamente.",
+        "doctor": "Ana Ruiz, M.D."
+    },
+    {
+        "id": 6,
+        "paciente": "James Wilson",
+        "fecha": "2023-01-03",
+        "diagnóstico": "Hernia de Disco Cervical",
+        "síntomas": "Dolor irradiado hacia el brazo derecho, debilidad muscular.",
+        "examenes": "Tomografía computarizada cervical.",
+        "plan_de_tratamiento": "Fisioterapia intensiva y control del dolor con opiáceos suaves.",
+        "procedimientos": [
+            {"nombre": "Descompresión Cervical", "cpt": ["63020"]}
+        ],
+        "notas": "El paciente ha sido referido para evaluación quirúrgica.",
+        "doctor": "Laura Kim, M.D."
+    },
+    {
+        "id": 7,
+        "paciente": "Linda Brown",
+        "fecha": "2022-09-14",
+        "diagnóstico": "Tendinitis de Hombro",
+        "síntomas": "Dolor en el hombro derecho al movimiento, limitación funcional.",
+        "examenes": "Ultrasonido de la articulación del hombro.",
+        "plan_de_tratamiento": "Inyecciones de corticoides y fisioterapia.",
+        "procedimientos": [
+            {"nombre": "Inyección de Corticoesteroides", "cpt": ["20610"]}
+        ],
+        "notas": "Se recomienda seguimiento en 4 semanas.",
+        "doctor": "Michael Carter, M.D."
+    },
+    {
+        "id": 8,
+        "paciente": "Robert Garcia",
+        "fecha": "2021-06-22",
+        "diagnóstico": "Síndrome del Túnel Carpiano",
+        "síntomas": "Entumecimiento y hormigueo en la mano derecha.",
+        "examenes": "Estudio de conducción nerviosa.",
+        "plan_de_tratamiento": "Uso de férulas y liberación quirúrgica si no hay mejoría.",
+        "procedimientos": [
+            {"nombre": "Liberación del Túnel Carpiano", "cpt": ["64721"]}
+        ],
+        "notas": "El paciente ha sido informado de opciones quirúrgicas.",
+        "doctor": "Sarah Wilson, M.D."
+    },
+    {
+        "id": 9,
+        "paciente": "David Lee",
+        "fecha": "2020-10-30",
+        "diagnóstico": "Artritis Reumatoide",
+        "síntomas": "Dolor articular bilateral, rigidez matutina prolongada.",
+        "examenes": "Análisis de sangre con factor reumatoide elevado.",
+        "plan_de_tratamiento": "Metotrexato y seguimiento cada 3 meses.",
+        "procedimientos": [
+            {"nombre": "Aspiración Articular", "cpt": ["20610"]}
+        ],
+        "notas": "El paciente ha comenzado tratamiento inmunomodulador.",
+        "doctor": "Karen Thomas, M.D."
+    },
+    {
+        "id": 10,
+        "paciente": "Sophia Green",
+        "fecha": "2019-02-12",
+        "diagnóstico": "Insuficiencia Venosa Crónica",
+        "síntomas": "Edema en extremidades inferiores, dolor al estar de pie prolongado.",
+        "examenes": "Ultrasonido Doppler venoso.",
+        "plan_de_tratamiento": "Medias de compresión y manejo quirúrgico si persiste el problema.",
+        "procedimientos": [
+            {"nombre": "Escleroterapia", "cpt": ["36471"]}
+        ],
+        "notas": "El paciente será evaluado para opciones quirúrgicas en 6 meses.",
+        "doctor": "Nathan Johnson, M.D."
+    }
+]
